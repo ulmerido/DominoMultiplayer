@@ -20,4 +20,3 @@ nodemon server.js
 ```
 npm run build
 ```
-### Customize configuration
