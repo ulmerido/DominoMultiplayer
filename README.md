@@ -1,8 +1,11 @@
-#Domino Multiplayer Game
+# Domino Multiplayer Game
 
-  Players:  2/3
-  Chat:     Avillable in game
-  Supports Game Spectator
+<p>  Players:  2/3</p>
+<p>  Chat:     Avillable in game</p>
+<p>  Supports Game Spectator</p>
+
+  
+  
 
 ### Setup Project
 ```
